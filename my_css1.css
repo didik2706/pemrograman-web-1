@@ -1,0 +1,108 @@
+body{
+    font: 16px/24px arial;
+    background-color: #eaeaea;
+    margin: 0px 0px 0px 0px ;
+}
+.container{
+    width: 1200px;
+    height: 100%;
+    margin: auto;
+    background-color: #ffffff;
+}
+.header{
+    background-color: green;
+    height: 8%;
+}
+.content{
+    background-color: yellow;
+    height: 87%;
+}
+.footer{
+    background-color: red;
+    height: 5%;
+}
+.header .brand{
+    width: 20%;
+    padding: 0px 0px 35px 5px ; 
+    background-color: #ccccff;
+}
+.header .menu{
+    width: 78%;
+    padding: 0px 0px 35px 5px ; 
+    background-color: #99ccff;  
+}
+.container .header div {    
+    display: inline-block; 
+    color: white;
+}
+/*heade
+.header{
+    padding: 0px 5px 0px 10px ;
+    background-color: #17a2b8;
+
+}
+.container .header div {    
+    display: inline-block;
+    color: white;
+}
+.header .brand{
+     margin: 0px 0px 0px -10px ;
+    background-color: #159bb0;
+}
+.brand ul li{
+    display: inline-block;
+    margin-right: 7px;
+}
+.brand ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.header .menu{
+    width: 70%;  
+}
+.menu ul li{
+    display: inline-block;
+    margin-right: 7px;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: white
+}
+.menu ul li a:hover{
+    background-color: lightskyblue;
+    color: salmon;
+}
+end header
+
+content
+.content{
+    height: 85%;
+}
+.content .home{
+    height:150px;
+    padding: 70px 5px 5px 10px ;    
+    background-color: #758689;
+    color: white;
+    text-align: center;
+}
+.content .dashboard{
+    padding: 20px 5px 5px 20px ; 
+    color: black;
+
+}
+.content .dashboard div{
+    display: inline-block;
+}
+end content
+
+footer
+.footer{
+    padding: 0px 0px 0px 10px ; 
+    height:50px;
+    line-height:50px;
+    background:#333;
+    color:#fff;
+}*/
